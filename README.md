@@ -15,8 +15,7 @@ SpringMVC+Hibernate4+ExtJS4.1
 4. 执行mvn tomcat7:run，自动创建对应的数据库
 5. 导入src/main/resources/sql/users.sql，初始化管理员记录，默认为username:admin，password:admin 
 
-## 如何交流、反馈、参与贡献？
-
+## 如何交流、反馈、参与贡献？tefsd
 * QQ群：384253170(诚邀各位盟友加入)
 
 如果你想参与进来共同完善它或有更好的建议，请联系我吧(^_^)。
